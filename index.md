@@ -1,6 +1,4 @@
 ---
-title: Nigel's Test Page
-date: 2023-01-24
+title: Welcome to my blog
 ---
 
-This is my ***First*** go
